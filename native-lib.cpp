@@ -14,7 +14,7 @@
 
 
 // --- Constants for encrypted strings (XOR) ---
-const char XOR_KEY = 0x5A;
+const char XOR_KEY = 0x8A;
 
 
 
