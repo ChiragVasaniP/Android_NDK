@@ -121,7 +121,7 @@ Java_com_example_NativeSecurity_getEncryptedApiKey(
 
 You can use the following link to understand the encryption algorithm and key generation process used in this project:
 
-🔗 [OnlineGDB Secure Key Algorithm](https://www.onlinegdb.com/qwTUGS_5k)
+🔗 [OnlineGDB Secure Key Algorithm](https://onlinegdb.com/EWAXe1uJI-)
 
 > **Note:** The `SHA-256` hashes used in this project are formatted **without colons (`:`)** — they are plain 64-character hexadecimal strings.
 
